@@ -1,0 +1,32 @@
+{
+  "name": "immutable-state-stream",
+  "version": "1.0.0",
+  "description": "Merges objects and outputs an immutable state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RangerMauve/immutable-state-stream.git"
+  },
+  "keywords": [
+    "state",
+    "stream",
+    "immutable",
+    "reactive"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/immutable-state-stream/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/immutable-state-stream",
+  "dependencies": {
+    "seamless-immutable": "^1.3.0"
+  },
+  "devDependencies": {
+    "stdout": "0.0.3",
+    "stream-array": "^1.0.0"
+  }
+}
